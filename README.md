@@ -72,6 +72,24 @@ Foram geradas questões úteis para fixação do aprendizado.
 
 ---
 
+## 🛠️ Utilização do NotebookLM
+
+Durante este desafio foi criado um caderno temático no NotebookLM para organizar e explorar conteúdos sobre Engenharia de Prompts.
+
+### Atividades realizadas
+
+- Adição de fontes relacionadas ao tema.
+- Geração de resumos automáticos.
+- Criação de um glossário.
+- Elaboração de perguntas para revisão.
+- Geração de um mapa mental e cartões didáticos.
+
+### Principais aprendizados
+
+A utilização do NotebookLM mostrou como a organização das fontes e a criação de prompts claros podem melhorar significativamente a qualidade das respostas geradas por Inteligência Artificial.
+
+---
+
 ## ✅ Conclusão
 
 Durante este desafio foi possível compreender como a Engenharia de Prompts influencia diretamente a qualidade das respostas geradas por Inteligências Artificiais, tornando o processo de estudo mais eficiente.
